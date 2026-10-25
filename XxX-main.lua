@@ -2,7 +2,7 @@
 -- OXIRO — UNSTOPPABLE TRACKING CHASE + VOID COMPATIBLE
 -- Delta / Mobile Compatible
 local MAX_ATTEMPTS = 3
-local CORRECT_KEY = "hello"
+local CORRECT_KEY = "mabahosiryu"
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
